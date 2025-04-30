@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mlahr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi, I’m @mlahr
 
-<!---
-mlahr/mlahr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🖤 Dark mode lover & <span style="color:#4AF626">terminal green</span> enthusiast (<span style="color:#4AF626">#4AF626</span>, <span style="color:#4e9a06">#4e9a06</span>)  
+🔧 Born in pipes. Just another hacker.  
+🧑‍🤝‍🧑 Team builder · 💼 Ex-CTO · 🚀 Ex-SaaS founder  
+🏗️ Now building service companies.  
+
+🗣️ Trying to bring out my voice — 📝 blogging, 🧪 vibe coding free tools.
