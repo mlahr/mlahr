@@ -3,9 +3,8 @@
 🖤 Dark mode lover & terminal green enthusiast (`#4AF626`, `#4e9a06`)  
 🔧 Born in pipes. Just another hacker.  
 🧑‍🤝‍🧑 Team builder · 💼 Ex-CTO · 🚀 Ex-SaaS founder  
-🏗️ Now building service companies.  
+🏗️ Now building pdfdancer.  
 
-🗣️ Trying to bring out my voice — 📝 blogging, 🧪 vibe coding free tools.
 
 ---
 
@@ -19,5 +18,6 @@
 
 ### 🌐 Websites
 
+- 🎨 [pdfdancer.com](https://www.pdfdancer.com)
 - 🎨 [thefamouscat.com](https://www.thefamouscat.com)
 - 🧑‍💻 [squad-c.com](https://www.squad-c.com)
