@@ -2,7 +2,7 @@
 
 I build software tools for document workflows, developer automation, and operational systems.
 
-Recent work focuses on PDF processing, publishing workflows, PII detection, CI-friendly validation, task orchestration, and human-in-the-loop automation.
+Recent work focuses on PDF processing, publishing workflows, PII detection, CI-friendly validation, and orchestration for agent-assisted development.
 
 ## Current areas
 
@@ -11,7 +11,7 @@ Recent work focuses on PDF processing, publishing workflows, PII detection, CI-f
 - PII detection in document text
 - Developer tooling and CI/CD support
 - Multi-stage agent workflow orchestration
-- Human-in-the-loop automation
+- Human-in-the-loop interfaces for automation
 
 ## Selected projects
 
@@ -22,7 +22,7 @@ Recent work focuses on PDF processing, publishing workflows, PII detection, CI-f
   High-recall PII detection for document text, with NER, regex, API, and evaluation tooling.
 
 - [propagate](https://github.com/mlahr/propagate)  
-  Task orchestration for multi-stage agent workflows across Git repositories.
+  DAG-based orchestration for multi-stage AI agent workflows across repositories.
 
 - [ask-user-mcp](https://github.com/mlahr/ask-user-mcp)  
   Local MCP server that lets agents ask or notify a user through Telegram.
@@ -30,5 +30,5 @@ Recent work focuses on PDF processing, publishing workflows, PII detection, CI-f
 - [gommit](https://github.com/mlahr/gommit)  
   Generate git commit messages from staged changes using OpenAI-compatible LLMs.
 
-- [github-dashboard](https://github.com/mlahr/github-dashboard)  
-  React dashboard for monitoring GitHub Actions runs and open pull requests across multiple repositories.
+- [docusaurus-cloudflare-search](https://github.com/mlahr/docusaurus-cloudflare-search)  
+  Docusaurus search indexing and API deployment on Cloudflare Workers.
