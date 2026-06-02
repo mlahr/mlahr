@@ -1,23 +1,34 @@
-### 👋 Hi, I’m @mlahr
+# Michael Lahr
 
-🖤 Dark mode lover & terminal green enthusiast (`#4AF626`, `#4e9a06`)  
-🔧 Born in pipes. Just another hacker.  
-🧑‍🤝‍🧑 Team builder · 💼 Ex-CTO · 🚀 Ex-SaaS founder  
-🏗️ Now building pdfdancer.  
+I build software tools for document workflows, developer automation, and operational systems.
 
+Recent work focuses on PDF processing, publishing workflows, PII detection, CI-friendly validation, task orchestration, and human-in-the-loop automation.
 
----
+## Current areas
 
-### 🏢 Organizations
+- PDF preflight and document validation
+- Publishing and font workflow automation
+- PII detection in document text
+- Developer tooling and CI/CD support
+- Multi-stage agent workflow orchestration
+- Human-in-the-loop automation
 
-- 🐱 [TheFamousCatStudio](https://github.com/TheFamousCatStudio)
-- 👥 [Squad-C](https://github.com/Squad-C)
-- 🤖 [Mensch-Maschine](https://github.com/Mensch-Maschine)
+## Selected projects
 
----
+- [presscheck](https://github.com/mlahr/presscheck)  
+  CI-friendly PDF preflight checks for print and publishing workflows.
 
-### 🌐 Websites
+- [pii-scout](https://github.com/mlahr/pii-scout)  
+  High-recall PII detection for document text, with NER, regex, API, and evaluation tooling.
 
-- 🎨 [pdfdancer.com](https://www.pdfdancer.com)
-- 🎨 [thefamouscat.com](https://www.thefamouscat.com)
-- 🧑‍💻 [squad-c.com](https://www.squad-c.com)
+- [propagate](https://github.com/mlahr/propagate)  
+  Task orchestration for multi-stage agent workflows across Git repositories.
+
+- [ask-user-mcp](https://github.com/mlahr/ask-user-mcp)  
+  Local MCP server that lets agents ask or notify a user through Telegram.
+
+- [gommit](https://github.com/mlahr/gommit)  
+  Generate git commit messages from staged changes using OpenAI-compatible LLMs.
+
+- [github-dashboard](https://github.com/mlahr/github-dashboard)  
+  React dashboard for monitoring GitHub Actions runs and open pull requests across multiple repositories.
