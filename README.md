@@ -15,20 +15,20 @@ Recent work focuses on PDF processing, publishing workflows, PII detection, CI-f
 
 ## Selected projects
 
+- [propagate](https://github.com/mlahr/propagate)  
+  DAG-based orchestration for multi-stage AI agent workflows across repositories.
+
 - [presscheck](https://github.com/mlahr/presscheck)  
   CI-friendly PDF preflight checks for print and publishing workflows.
 
 - [pii-scout](https://github.com/mlahr/pii-scout)  
   High-recall PII detection for document text, with NER, regex, API, and evaluation tooling.
 
-- [propagate](https://github.com/mlahr/propagate)  
-  DAG-based orchestration for multi-stage AI agent workflows across repositories.
-
 - [ask-user-mcp](https://github.com/mlahr/ask-user-mcp)  
   Local MCP server that lets agents ask or notify a user through Telegram.
 
-- [gommit](https://github.com/mlahr/gommit)  
-  Generate git commit messages from staged changes using OpenAI-compatible LLMs.
+- [git-cleaner](https://github.com/mlahr/git-cleaner)  
+  Go TUI for reviewing and deleting stale local and remote Git branches.
 
 - [docusaurus-cloudflare-search](https://github.com/mlahr/docusaurus-cloudflare-search)  
   Docusaurus search indexing and API deployment on Cloudflare Workers.
