@@ -27,6 +27,9 @@ Recent work focuses on PDF processing, publishing workflows, PII detection, CI-f
 - [ask-user-mcp](https://github.com/mlahr/ask-user-mcp)  
   Local MCP server that lets agents ask or notify a user through Telegram.
 
+- [autosnap](https://github.com/mlahr/autosnap)  
+  Local Git checkpointing CLI that saves passing, test-gated snapshots without committing to the active branch.
+
 - [git-cleaner](https://github.com/mlahr/git-cleaner)  
   Go TUI for reviewing and deleting stale local and remote Git branches.
 
