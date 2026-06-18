@@ -15,6 +15,9 @@ Recent work focuses on PDF processing, publishing workflows, PII detection, CI-f
 
 ## Selected projects
 
+- [diffcog](https://github.com/mlahr/diffcog)<br>
+  Prototype CLI for measuring cognitive complexity introduced by Git changes in tracked Java and Python files.
+
 - [propagate](https://github.com/mlahr/propagate)  
   DAG-based orchestration for multi-stage AI agent workflows across repositories.
 
